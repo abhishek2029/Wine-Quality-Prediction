@@ -8,4 +8,4 @@
 
 4 - You need to have python installed and install libraires as required or install anaconda.
 
-5 - You can run the code on jupyter notebook or through terminal by executing the python file.
+5 - You can run the code on jupyter notebook or through terminal.
