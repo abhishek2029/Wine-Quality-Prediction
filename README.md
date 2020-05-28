@@ -1,4 +1,4 @@
-# Wine-Quality-Predictor
+# Wine-Quality-Prediction
 
 1 - In this project, we predict the wine quality and compare the results among 4 different classification models to determine the best working model for the dataset.
 
